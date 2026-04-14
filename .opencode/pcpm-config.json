@@ -5,7 +5,7 @@
     "onFailure": "/Users/jeremy/dev/A2A-SIN-Feishu/.opencode/hooks/pcpm-after-run.sh"
   },
   "pcpm": {
-    "brainRepoPath": "/Users/jeremy/dev/A2A-SIN-Feishu",
+    "brainRepoPath": "/Users/jeremy/dev/global-brain",
     "projectId": "A2A-SIN-Feishu",
     "goalId": "default-goal",
     "goalDescription": "Continue development",
